@@ -47,7 +47,7 @@ After completing the initial setup steps, the next phase involves downloading es
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now you will install VC_redist.x86.exe from the Installation Files folder. Then, proceed to install MySQL 5.5.62. Choose the Typical Setup option during installation and, after installation completes, launch the Configuration Wizard. Opt for Standard Configuration and set the root password to "Password1". Next, open Internet Information Services (IIS) as an Administrator and register PHP within IIS. To ensure the changes take effect, reload IIS by stopping and starting the server through the IIS management console. Now, it's time to install osTicket v1.15.8. Download the osTicket package from the Installation Files folder, extract the contents, and locate the "upload" folder. Copy this folder to c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, rename the "upload" folder to "osTicket".Lastly, reload IIS once more by stopping and starting the server to finalize the setup. Following these steps will successfully configure osTicket v1.15.8 on your system, ensuring everything is set up correctly for use.
 </p>
 <br />
 
