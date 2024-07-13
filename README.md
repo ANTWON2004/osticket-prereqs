@@ -39,7 +39,7 @@ To set up your virtual machine on Microsoft Azure, start by creating a resource 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After completing the initial setup steps, the next phase involves downloading essential files to fully configure OSticket. Begin by downloading and installing IIS. Once installed, open it and enable the following features: CGI, Common HTTP Features, Internet Information Services, Web Management Tools, and IIS Management Console. Next, return to the downloaded files and install PHP Manager for IIS and the Rewrite Module. Proceed by creating a directory at C:\PHP. Subsequently, revisit the downloaded files to obtain PHP 7.3.8 and extract its contents into the C:\PHP directory. Ensure to retain all files when prompted during the download process.
 </p>
 <br />
 
