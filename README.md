@@ -27,10 +27,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+![Screenshot (2)](https://github.com/user-attachments/assets/353573c9-3b5d-4459-8de8-f8346108cab6)
+
+ 
 To set up your virtual machine on Microsoft Azure, start by creating a resource group (RG) and naming it. Then, use the Azure portal to search for "Virtual Machine (VM)" and begin creating your VM. Choose your resource group, VM name, region, operating system, and VM size (VCPU). Create a username and strong password for accessing the VM. Double-check all settings, click "Review + Create", verify your configuration, and then click "Create" to deploy your VM. Azure will start setting up your VM based on your specifications.
 </p>
 <br />
